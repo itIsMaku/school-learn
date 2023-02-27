@@ -1,0 +1,16 @@
+U:\PRG2\csharp\volkman-operatory2\bin\Debug\net5.0\volkman-operatory2.exe
+U:\PRG2\csharp\volkman-operatory2\bin\Debug\net5.0\volkman-operatory2.deps.json
+U:\PRG2\csharp\volkman-operatory2\bin\Debug\net5.0\volkman-operatory2.runtimeconfig.json
+U:\PRG2\csharp\volkman-operatory2\bin\Debug\net5.0\volkman-operatory2.runtimeconfig.dev.json
+U:\PRG2\csharp\volkman-operatory2\bin\Debug\net5.0\volkman-operatory2.dll
+U:\PRG2\csharp\volkman-operatory2\bin\Debug\net5.0\ref\volkman-operatory2.dll
+U:\PRG2\csharp\volkman-operatory2\bin\Debug\net5.0\volkman-operatory2.pdb
+U:\PRG2\csharp\volkman-operatory2\obj\Debug\net5.0\volkman-operatory2.csprojAssemblyReference.cache
+U:\PRG2\csharp\volkman-operatory2\obj\Debug\net5.0\volkman-operatory2.GeneratedMSBuildEditorConfig.editorconfig
+U:\PRG2\csharp\volkman-operatory2\obj\Debug\net5.0\volkman-operatory2.AssemblyInfoInputs.cache
+U:\PRG2\csharp\volkman-operatory2\obj\Debug\net5.0\volkman-operatory2.AssemblyInfo.cs
+U:\PRG2\csharp\volkman-operatory2\obj\Debug\net5.0\volkman-operatory2.csproj.CoreCompileInputs.cache
+U:\PRG2\csharp\volkman-operatory2\obj\Debug\net5.0\volkman-operatory2.dll
+U:\PRG2\csharp\volkman-operatory2\obj\Debug\net5.0\ref\volkman-operatory2.dll
+U:\PRG2\csharp\volkman-operatory2\obj\Debug\net5.0\volkman-operatory2.pdb
+U:\PRG2\csharp\volkman-operatory2\obj\Debug\net5.0\volkman-operatory2.genruntimeconfig.cache
